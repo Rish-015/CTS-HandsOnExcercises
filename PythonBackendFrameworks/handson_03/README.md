@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This hands-on exercise converts the Django Course Management application into a full RESTful web API using Django REST Framework (DRF). It implements `ModelSerializer` classes, `APIView` class-based views, `ModelViewSet` viewsets, automatic `DefaultRouter` URL generation, and custom detail action endpoints.
 
 ---
 
-## 📁 Directory Structure
+##  Directory Structure
 
 ```text
 handson_03/
@@ -31,7 +31,7 @@ handson_03/
 
 ---
 
-## 🚀 API Endpoints Overview
+##  API Endpoints Overview
 
 | Endpoint | Method | Action / Description |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ handson_03/
 
 ---
 
-## 🧪 Testing Instructions
+##  Testing Instructions
 
 ```bash
 cd handson_03/coursemanager
