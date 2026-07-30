@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This hands-on exercise establishes the core theoretical and practical foundations of Python web backend development. It covers the HTTP request-response cycle, Django's architecture, WSGI vs. ASGI server protocols, middleware pipelines, and MVC vs. MVT pattern mappings.
 
 ---
 
-## 📁 Directory Structure
+##  Directory Structure
 
 ```text
 handson_01/
@@ -37,7 +37,7 @@ handson_01/
 
 ---
 
-## 🚀 Execution & Setup Instructions
+##  Execution & Setup Instructions
 
 ### 1. Run Development Server
 ```bash
