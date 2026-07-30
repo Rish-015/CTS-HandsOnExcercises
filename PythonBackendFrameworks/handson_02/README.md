@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This hands-on exercise implements full Django ORM models representing the Course Management domain (`Department`, `Course`, `Student`, `Enrollment`), enforces database constraints (`unique_together`), generates migration schemas, explores Django ORM query optimizations (`select_related`, `annotate`, `Count`, `F()` expressions), and customizes the Django Admin Interface.
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```text
 handson_02/
@@ -32,7 +32,7 @@ handson_02/
 
 ---
 
-## 🚀 Execution & Testing Instructions
+##  Execution & Testing Instructions
 
 ### 1. Apply Migrations
 ```bash
