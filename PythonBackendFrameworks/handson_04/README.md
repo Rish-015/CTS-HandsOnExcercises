@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This hands-on exercise implements a modular Flask backend application using the **Application Factory pattern** (`create_app()`), Flask **Blueprints** (`courses_bp`), environment configuration classes, JSON response envelopes, and custom JSON error handlers.
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```text
 handson_04/
@@ -27,7 +27,7 @@ handson_04/
 
 ---
 
-## 🚀 Execution & Testing Instructions
+##  Execution & Testing Instructions
 
 ```bash
 cd handson_04/flask_coursemanager
