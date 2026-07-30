@@ -5,7 +5,7 @@
 
 ---
 
-## 🗺️ Hands-On Modules Overview
+##  Hands-On Modules Overview
 
 | Module | Framework | Key Concepts & Deliverables |
 | :--- | :--- | :--- |
