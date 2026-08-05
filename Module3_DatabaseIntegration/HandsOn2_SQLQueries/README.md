@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This hands-on exercise populates the `college_db` relational database with canonical sample datasets, executes data mutations (`UPDATE`, `DELETE`), builds multi-table INNER and LEFT JOINs, and generates analytical summary reports using aggregate functions (`COUNT`, `AVG`, `ROUND`, `SUM`, `MAX`) with `GROUP BY` and `HAVING` filters.
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `01_insert_data.sql`: Data seeding script (Departments, Students, Courses, Enrollments, Professors + 2 Custom Students).
 - `02_dml.sql`: Data manipulation statements (`UPDATE`, `DELETE`, `COUNT(*)` verification).
@@ -22,7 +22,7 @@ This hands-on exercise populates the `college_db` relational database with canon
 
 ---
 
-## 🚀 Execution Instructions
+##  Execution Instructions
 
 ### PostgreSQL
 ```bash
