@@ -5,7 +5,7 @@
 
 ---
 
-## 🏛️ Service Decomposition Matrix
+##Service Decomposition Matrix
 
 In this module, the monolith Course Management API is decomposed into autonomous, database-isolated microservices:
 
@@ -19,7 +19,7 @@ In this module, the monolith Course Management API is decomposed into autonomous
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```text
 handson_10/
@@ -42,7 +42,7 @@ handson_10/
 
 ---
 
-## 🔀 Synchronous (HTTP) vs. Asynchronous (Message Queue) Communication
+## Synchronous (HTTP) vs. Asynchronous (Message Queue) Communication
 
 ### 1. Synchronous HTTP Inter-Service Communication (Rest API / gRPC)
 - **Mechanism**: Student Service executes an HTTP GET call directly to Course Service (`http://localhost:5001/api/courses/{id}/`).
@@ -62,7 +62,7 @@ handson_10/
 
 ---
 
-## 🚀 How to Launch the Microservices Cluster
+## How to Launch the Microservices Cluster
 
 Launch each component in separate terminal windows:
 

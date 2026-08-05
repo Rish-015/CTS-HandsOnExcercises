@@ -5,7 +5,7 @@
 
 ---
 
-## 🗺️ Master Deliverables Index
+##Master Deliverables Index
 
 | Module | Core Domain / Focus | Deliverables & Primary Scripts |
 | :--- | :--- | :--- |

@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Task 1: Map Testing Types to a Real System
+## Task 1: Map Testing Types to a Real System
 
 ### 1. Concrete Test Cases Across Testing Levels
 
@@ -65,7 +65,7 @@ graph LR
 
 ---
 
-## 🐛 Task 2: Defect Lifecycle & Severity Classification
+## Task 2: Defect Lifecycle & Severity Classification
 
 ### 5. Complete Defect Lifecycle Diagram & Workflow
 

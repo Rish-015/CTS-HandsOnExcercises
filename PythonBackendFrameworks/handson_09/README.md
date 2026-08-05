@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This hands-on exercise implements enterprise-grade API security:
 - **`bcrypt` Password Hashing**: Work-factor key stretching via `passlib`.
@@ -16,7 +16,7 @@ This hands-on exercise implements enterprise-grade API security:
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```text
 handson_09/
@@ -35,7 +35,7 @@ handson_09/
 
 ---
 
-## 🚀 Testing Authentication Flow
+## Testing Authentication Flow
 
 ### 1. Register User (`POST /api/v1/auth/register/`)
 ```json

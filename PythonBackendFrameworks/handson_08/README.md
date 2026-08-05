@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This hands-on exercise audits and refactors existing endpoints to follow industry-standard **RESTful best practices**:
 - **Plural Noun Resource Naming**: `/api/v1/courses/`, `/api/v1/students/`
@@ -17,7 +17,7 @@ This hands-on exercise audits and refactors existing endpoints to follow industr
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```text
 handson_08/
@@ -33,7 +33,7 @@ handson_08/
 
 ---
 
-## 🚀 Execution & Verification Instructions
+## Execution & Verification Instructions
 
 ### 1. Start FastAPI Server
 ```bash

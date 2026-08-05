@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This hands-on exercise scaffolds a modern FastAPI application utilizing Pydantic v2 schemas (`CourseCreate`, `CourseUpdate`, `CourseResponse`, nested `DepartmentResponse`), async/await non-blocking endpoints, path/query parameter automatic validation, Async SQLAlchemy 2.0 database access, and auto-generated Swagger UI documentation.
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```text
 handson_06/
@@ -26,7 +26,7 @@ handson_06/
 
 ---
 
-## 🚀 Execution & Testing Instructions
+## Execution & Testing Instructions
 
 ### 1. Launch FastAPI Server via Uvicorn
 ```bash

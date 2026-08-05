@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This hands-on exercise implements full RESTful CRUD for Courses, Students, and Enrollments following strict HTTP status code standards (`201 Created`, `204 No Content`, `404 Not Found`). It showcases **FastAPI BackgroundTasks** for non-blocking confirmation email dispatch and customizes OpenAPI metadata, tags, summaries, and field descriptions.
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```text
 handson_07/
@@ -30,7 +30,7 @@ handson_07/
 
 ---
 
-## 🚀 Testing & Execution Instructions
+## Testing & Execution Instructions
 
 ### 1. Launch FastAPI Server
 ```bash

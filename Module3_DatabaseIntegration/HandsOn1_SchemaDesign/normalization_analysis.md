@@ -5,7 +5,7 @@
 
 ---
 
-##  1. First Normal Form (1NF) Analysis
+## 1. First Normal Form (1NF) Analysis
 
 ### 1NF Requirements
 1. Each column must hold **atomic (indivisible) values**.
@@ -18,7 +18,7 @@
 
 ---
 
-##  2. Second Normal Form (2NF) Analysis
+## 2. Second Normal Form (2NF) Analysis
 
 ### 2NF Requirements
 1. The table must satisfy 1NF.
@@ -34,7 +34,7 @@
 
 ---
 
-##  3. Third Normal Form (3NF) Analysis
+## 3. Third Normal Form (3NF) Analysis
 
 ### 3NF Requirements
 1. The table must satisfy 2NF.
@@ -48,7 +48,7 @@
 
 ---
 
-##  4. In-Depth 3NF Analysis of `enrollments` Table
+## 4. In-Depth 3NF Analysis of `enrollments` Table
 
 ```sql
 -- 3NF ANALYSIS FOR ENROLLMENTS TABLE:

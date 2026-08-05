@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This hands-on exercise implements a Python backend module using **SQLAlchemy 2.0 ORM**:
 - **ORM Models**: `Department`, `Student`, `Course`, `Enrollment`, `Professor` mapped via `DeclarativeBase`.
@@ -15,7 +15,7 @@ This hands-on exercise implements a Python backend module using **SQLAlchemy 2.0
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `config.py`: Database connection settings & URI configuration.
 - `database.py`: SQLAlchemy `create_engine` (with `echo=True` SQL logging) and `sessionmaker`.
@@ -26,7 +26,7 @@ This hands-on exercise implements a Python backend module using **SQLAlchemy 2.0
 
 ---
 
-## 🚀 Execution Instructions
+## Execution Instructions
 
 ### 1. Run Full ORM CRUD Script
 ```bash

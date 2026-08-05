@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This hands-on exercise implements advanced SQL querying techniques:
 - **Subqueries**: Correlated subqueries, non-correlated subqueries, and derived tables in `FROM` clause.
@@ -15,7 +15,7 @@ This hands-on exercise implements advanced SQL querying techniques:
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `01_subqueries.sql`: Advanced subquery techniques.
 - `02_views.sql`: Database view definitions & updatable view constraints.
@@ -25,7 +25,7 @@ This hands-on exercise implements advanced SQL querying techniques:
 
 ---
 
-## 🚀 Execution Instructions
+## Execution Instructions
 
 ### PostgreSQL
 ```bash

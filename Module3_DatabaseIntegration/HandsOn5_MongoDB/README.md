@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This hands-on exercise implements the NoSQL Course Feedback system (`college_nosql`) using MongoDB:
 - **Document Modeling**: Schema-less BSON document structure embedding sub-documents and tag arrays.
@@ -15,7 +15,7 @@ This hands-on exercise implements the NoSQL Course Feedback system (`college_nos
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `mongo_setup.js`: Database initialization (`college_nosql`), collection creation (`feedback`), and batch document population.
 - `crud_operations.js`: MongoDB CRUD queries, array matching, field projections, and atomic updates.
@@ -25,7 +25,7 @@ This hands-on exercise implements the NoSQL Course Feedback system (`college_nos
 
 ---
 
-## 🚀 Execution Instructions via `mongosh`
+## Execution Instructions via `mongosh`
 
 ```bash
 # 1. Connect and initialize database

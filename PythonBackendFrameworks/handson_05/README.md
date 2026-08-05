@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This hands-on exercise connects the Flask Course Management API to a real relational SQLite database using **Flask-SQLAlchemy** and **Flask-Migrate**. It defines ORM models (`Department`, `Course`, `Student`, `Enrollment`), `to_dict()` serialization, relationship navigation (`back_populates`), and SQL JOIN queries.
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```text
 handson_05/
@@ -30,7 +30,7 @@ handson_05/
 
 ---
 
-## 🚀 Setup & Execution Instructions
+## Setup & Execution Instructions
 
 ### 1. Seed Database & Create Tables
 ```bash

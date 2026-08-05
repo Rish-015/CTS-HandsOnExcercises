@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Task 1: Automation Decision & Test Case Selection
+## Task 1: Automation Decision & Test Case Selection
 
 ### 17. Five Key Criteria for Test Automation Selection
 
@@ -114,7 +114,7 @@ A test clicks a `"Submit Course"` button and immediately asserts `driver.find_el
 
 ---
 
-## 🏗️ Task 2: Compare Automation Framework Types
+##Task 2: Compare Automation Framework Types
 
 ### 21. Comparative Analysis of 5 Framework Architectures
 

@@ -6,7 +6,7 @@
 
 ---
 
-## 📐 Task 1: V-Model Mapping & Testing Lifecycles
+## Task 1: V-Model Mapping & Testing Lifecycles
 
 ### 9. Comprehensive V-Model Architecture Diagram
 
@@ -86,7 +86,7 @@ graph TD
 
 ---
 
-## 🏃 Task 2: Agile QA and Shift-Left Testing
+## Task 2: Agile QA and Shift-Left Testing
 
 ### 13. Three Critical Problems of Traditional Waterfall Testing
 

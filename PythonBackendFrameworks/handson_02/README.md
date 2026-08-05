@@ -32,7 +32,7 @@ handson_02/
 
 ---
 
-##  Execution & Testing Instructions
+## Execution & Testing Instructions
 
 ### 1. Apply Migrations
 ```bash

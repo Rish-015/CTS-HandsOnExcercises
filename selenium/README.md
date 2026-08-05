@@ -9,7 +9,7 @@ This repository contains the complete, enterprise-grade implementation of all 7 
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 The repository systematically builds QA automation expertise, progressing from fundamental QA theory and defect lifecycle management to advanced Selenium WebDriver automation, PyTest frameworks, dynamic synchronization, and Page Object Model (POM) design patterns.
 

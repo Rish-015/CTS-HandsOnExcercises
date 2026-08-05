@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This hands-on exercise establishes database schema versioning using **Alembic** (for SQLAlchemy) and documents Django migration mechanisms. It tracks schema evolution across 3 incremental revisions:
 1. **Revision 001**: Baseline schema initialization (5 core tables).
@@ -16,7 +16,7 @@ It demonstrates safe rollback strategies (`alembic downgrade -1`, `alembic downg
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `alembic.ini`: Alembic runtime configuration file.
 - `alembic/env.py`: Migration environment script importing `Base.metadata`.
@@ -27,7 +27,7 @@ It demonstrates safe rollback strategies (`alembic downgrade -1`, `alembic downg
 
 ---
 
-## 🚀 Migration & Rollback Commands
+## Migration & Rollback Commands
 
 ### 1. View Current Applied Revision
 ```bash

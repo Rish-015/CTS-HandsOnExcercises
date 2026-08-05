@@ -6,7 +6,7 @@
 
 ---
 
-## 🏛️ Page Object Model Architecture Overview
+##Page Object Model Architecture Overview
 
 The **Page Object Model (POM)** is the foundational architectural pattern for building enterprise-grade, maintainable Web UI automation suites in Selenium.
 
@@ -46,7 +46,7 @@ graph TD
 
 ---
 
-## 🎯 The Four Golden Rules of POM Applied
+## The Four Golden Rules of POM Applied
 
 1. **Strict Separation of UI Interaction from Test Logic**:
    - Page classes (`pages/`) contain element locators and action methods.
@@ -60,7 +60,7 @@ graph TD
 
 ---
 
-## 💡 Maintenance Scenario & POM Solution
+## Maintenance Scenario & POM Solution
 
 ### The Maintenance Problem in Flat (Non-POM) Scripts
 
@@ -102,7 +102,7 @@ page.click_submit()  # No locator hardcoding!
 
 ---
 
-## 🚀 Running the POM Test Suite
+## Running the POM Test Suite
 
 ### Command
 ```bash

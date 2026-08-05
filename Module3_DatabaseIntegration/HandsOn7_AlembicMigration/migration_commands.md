@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Alembic Migration Command Reference
+##Alembic Migration Command Reference
 
 | Command | Purpose | Description |
 | :--- | :--- | :--- |
@@ -18,7 +18,7 @@
 
 ---
 
-## ⚙️ Django Migrations Command Reference
+## Django Migrations Command Reference
 
 | Command | Purpose | Description |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 Comparative Analysis: Alembic vs. Django Migrations
+## Comparative Analysis: Alembic vs. Django Migrations
 
 1. **Schema Diffing Accuracy**:
    - **Django**: Built directly into framework core; reliably tracks column renames (`AlterField`, `RenameField`).
