@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This hands-on exercise designs the foundational relational schema (`college_db`) for the Student Course Registration System. It implements DDL scripts for 5 core tables with strict primary keys, foreign keys, uniqueness, and check constraints across both PostgreSQL and MySQL database engines, followed by a formal database normalization analysis (1NF, 2NF, 3NF).
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `01_create_database.sql`: Database creation commands.
 - `02_create_tables.sql`: DDL for `departments`, `students`, `courses`, `enrollments`, and `professors`.
@@ -21,7 +21,7 @@ This hands-on exercise designs the foundational relational schema (`college_db`)
 
 ---
 
-## 🚀 Execution Instructions
+##  Execution Instructions
 
 ### PostgreSQL
 ```bash
